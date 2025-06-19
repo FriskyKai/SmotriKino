@@ -1,0 +1,30 @@
+/* ============================
+   1. Base
+   ============================ */
+@import url('./base/reset.css');
+@import url('./base/variables.css');
+@import url('./base/typography.css');
+@import url('./base/globals.css');
+
+/* ============================
+   2. Layout
+   ============================ */
+@import url('./layouts/grid.css');
+@import url('./layouts/header.css');
+
+/* ============================
+   3. Components
+   ============================ */
+@import url('./components/utilities.css');
+@import url('./components/buttons.css');
+@import url('./components/cards.css');
+@import url('./components/forms.css');
+@import url('./components/search.css');
+
+/* ============================
+   4. Pages (уникальные стили)
+   ============================ */
+@import url('./pages/users.css');
+@import url('./pages/studios.css');
+@import url('./pages/genres.css');
+@import url('./pages/media.css');
